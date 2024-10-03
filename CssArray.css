@@ -1,0 +1,5 @@
+* Selecciona todas las imágenes */
+img {
+    height: auto;  /* Ajusta la altura proporcionalmente */
+    width: 110px;  /* Establece un ancho fijo de 110 píxeles */
+}
